@@ -18,8 +18,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koushik9988&layout=compact&theme=tokyonight)
 
 ## 🔥 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=koushik9988&theme=tokyonight&hide_border=false)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=koushik9988&theme=tokyonight)
 
 
 
