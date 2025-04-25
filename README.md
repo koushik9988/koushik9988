@@ -1,13 +1,7 @@
-# Hi there 👋 I'm [Your Name]
+# Hi there 👋 I'm Kaushik Kalita
 
-I'm a [your role] passionate about [your interests].  
-I enjoy building tools, solving problems, and learning new things.
 
-- 🔭 I’m currently working on: [Project name or topic]
-- 🌱 I’m currently learning: [Tech or field you're exploring]
-- 💬 Ask me about: [Things you know well]
-- 📫 How to reach me: [Email or socials]
-- ⚡ Fun fact: [Optional quirk or hobby]
+- 🔭 I’m currently working on developing 1D and 2D Electrostatic PIC codes
 
 ## 🛠️ Tech Stack
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2b%2b&logoColor=white)
