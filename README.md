@@ -10,5 +10,20 @@
 <!-- Add more as you like -->
 
 ## 📈 GitHub Stats
-![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=koushik9988&show_icons=true&theme=tokyonight)
+
+<!-- Tokyo Night theme (already used) -->
+![Koushik's GitHub stats](https://github-readme-stats.vercel.app/api?username=koushik9988&show_icons=true&theme=tokyonight)
+
+<!-- Radical -->
+![Koushik's GitHub stats](https://github-readme-stats.vercel.app/api?username=koushik9988&show_icons=true&theme=radical)
+
+<!-- Solarized Light -->
+![Koushik's GitHub stats](https://github-readme-stats.vercel.app/api?username=koushik9988&show_icons=true&theme=solarized-light)
+
+<!-- Dracula -->
+![Koushik's GitHub stats](https://github-readme-stats.vercel.app/api?username=koushik9988&show_icons=true&theme=dracula)
+
+<!-- Grayscale -->
+![Koushik's GitHub stats](https://github-readme-stats.vercel.app/api?username=koushik9988&show_icons=true&theme=graywhite)
+
 
