@@ -16,5 +16,5 @@ I enjoy building tools, solving problems, and learning new things.
 <!-- Add more as you like -->
 
 ## 📈 GitHub Stats
-![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight)
+![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=koushik9988&show_icons=true&theme=tokyonight)
 
