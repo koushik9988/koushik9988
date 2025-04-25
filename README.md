@@ -10,20 +10,17 @@
 <!-- Add more as you like -->
 
 ## 📈 GitHub Stats
-
-<!-- Tokyo Night theme (already used) -->
-![Koushik's GitHub stats](https://github-readme-stats.vercel.app/api?username=koushik9988&show_icons=true&theme=tokyonight)
-
-<!-- Radical -->
-![Koushik's GitHub stats](https://github-readme-stats.vercel.app/api?username=koushik9988&show_icons=true&theme=radical)
-
-<!-- Solarized Light -->
-![Koushik's GitHub stats](https://github-readme-stats.vercel.app/api?username=koushik9988&show_icons=true&theme=solarized-light)
-
-<!-- Dracula -->
-![Koushik's GitHub stats](https://github-readme-stats.vercel.app/api?username=koushik9988&show_icons=true&theme=dracula)
-
 <!-- Grayscale -->
 ![Koushik's GitHub stats](https://github-readme-stats.vercel.app/api?username=koushik9988&show_icons=true&theme=graywhite)
+
+## 🔝 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koushik9988&layout=compact&theme=tokyonight)
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=koushik9988&theme=tokyonight)
+
+
 
 
