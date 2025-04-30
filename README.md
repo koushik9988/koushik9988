@@ -9,13 +9,16 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 <!-- Add more as you like -->
 
-## 📈 GitHub Stats
-<!-- Grayscale -->
-![Koushik's GitHub stats](https://github-readme-stats.vercel.app/api?username=koushik9988&show_icons=true&theme=graywhite)
+### 📊 Github Stats
+<a href='https://github.com/rahul-jha98/github-stats-transparent'>
+  
+![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
 
-## ❤️ Top Languages
+</a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koushik9988&layout=compact&theme=tokyonight)
+<br>
+
 
 
 
