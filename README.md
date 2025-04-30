@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Kaushik Kalita
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampavangandhi&label=Profile%20views&color=0e75b6&style=flat" alt="iampavangandhi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=koushik9988&label=Profile%20views&color=0e75b6&style=flat" alt="iampavangandhi" /> </p>
 
 
 - 🔭 I’m currently working on developing 1D and 2D Electrostatic PIC codes
@@ -12,12 +12,9 @@
 <!-- Add more as you like -->
 
 ## 📊 GitHub Stats
-
-<a href="https://github.com/koushik9988/github-stats-transparent">
-  <img align="center" src="https://raw.githubusercontent.com/koushik9988/github-stats-transparent/output/generated/overview.svg" alt="GitHub Stats Overview" />
-  <img align="center" src="https://raw.githubusercontent.com/koushik9988/github-stats-transparent/output/generated/languages.svg" alt="Most Used Languages" />
-</a>
-
+ ![Koushik's GitHub stats](https://github-readme-stats.vercel.app/api?username=koushik9988&show_icons=true&theme=graywhite)
+ ## ❤️ Top Languages
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koushik9988&layout=compact&theme=tokyonight)
 
 
 
