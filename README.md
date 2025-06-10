@@ -1,8 +1,6 @@
 # 👋 Hi there, I'm Kaushik Kalita
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=koushik9988&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+
 
 🚀 I’m currently working on developing **1D and 2D Electrostatic Particle-In-Cell (PIC)** codes.
 
