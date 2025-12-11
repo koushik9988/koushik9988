@@ -12,9 +12,11 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## 📊 GitHub Stats
- ![Koushik's GitHub stats](https://github-readme-stats.vercel.app/api?username=koushik9988&show_icons=true&theme=graywhite)
- ## ❤️ Top Languages
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koushik9988&layout=compact&theme=tokyonight)
+![Koushik's GitHub stats](https://github-readme-stats-mirror.vercel.app/api?username=koushik9988&show_icons=true&theme=graywhite)
+
+## ❤️ Top Languages
+![Top Langs](https://github-readme-stats-mirror.vercel.app/api/top-langs/?username=koushik9988&layout=compact&theme=tokyonight)
+
 
 
 
